@@ -1,4 +1,4 @@
-package com.xhvx.rabbitmq.helloworld;
+package com.xhvx.rabbitmq.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

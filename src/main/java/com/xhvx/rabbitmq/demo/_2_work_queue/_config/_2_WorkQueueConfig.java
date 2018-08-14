@@ -5,7 +5,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import com.xhvx.rabbitmq.demo._1_queue.sender._1_Sender;
 import com.xhvx.rabbitmq.demo._2_work_queue.receiver._2_Receiver;
 import com.xhvx.rabbitmq.demo._2_work_queue.sender._2_Sender;
 
